@@ -11,3 +11,6 @@ Jesús David Tejeda Hernández
 Lizbeth Guadalupe Segundo Cienega
 
 Descripción: Realizaremos el pseudocódigo del juego Blackjack con las herramientas que vimos en clase, usaremos Java.
+
+Link para ir al anterior repositorio, ya q no lo pudimos enlazar correctamente: 
+https://github.com/Lizdebug/blackjack.java
